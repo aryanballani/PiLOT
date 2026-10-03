@@ -85,3 +85,6 @@ logs/
 local.properties
 /app/build
 *.png
+
+# Personal career notes (kept local)
+aryan_contribution.md
